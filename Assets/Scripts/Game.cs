@@ -9,7 +9,7 @@ public class Game : MonoBehaviour
     public int directionInput;
     public bool groundCheck;
     public bool facingRight = true;
-//
+///
     void Start()
     {
         //ищем элемент на сцене с компонентом Rigidbody
